@@ -1,0 +1,137 @@
+=====================================================================
+Alcatraz - OOP Software Development Term Project
+Log of Game Build changes
+=====================================================================
+
+(Requirements)
+(Design)
+**Pre-Production**
+1.0
+--------
+Mckennon has rudimentary version of the game available and functioning
+Based off Adventure1 - Zork spin off
+Implements the following: Player, Monster, Sign and Thief game objects
+--------
+
+(Programming)
+**Project Production & Development Stage**
+1.1
+-------
+First intrinsic team source code release, a tuned-up version of the
+previous build. Bute file (rooms.txt) has problems loading correctly
+into the engine. Incorrect number of storage elements on some arrays
+-------
+
+1.2
+-------
+Quick release to Project Documentor, Nathan.
+Contains early game output formatting by Gaffey. Some errors are resolved.
+-------
+
+(Integration and Testing Phase 1)
+1.3
+-------
+Second intrinsic team source code release
+The game's previous bugs are resolved. Format is mostly complete. Music is
+implemented into the game. Game credits have been added in the game's Ending.
+The release executable contains a terminating bug when the player has entered
+their name, weapon, and armor when the bute file isn't loaded.
+The bute file (rooms.txt) contains some typos. Released by Gaffey.
+Title screen music is not implemented.
+-------
+
+(Presentation and Delivery)
+1.4
+-------
+Partial team release.
+The ability for the player to toss chosen items out of their inventory is partially working.
+Battle mode command {R:Retreat and X:Exit} are functioning correctly.
+Game art and animation development begins. Release supervised by Justin McKennon.
+-------
+
+(Maintenance Phase)
+(Testing Phase 2)
+1.4.1
+-------
+The ability for the player to remove designated inventory items is fully functional.
+Additional game credits added.
+New game title screen.
+Minor game output style changes. Release by Barry Gaffey
+-------
+
+1.4.2
+-------
+Fixed inventory bug, where player could not manage his/her inventory after getting 5 items.
+Re-done the game's interface format.
+Added ability for user's to upload their own game mods. Released by Barry Gaffey
+-------
+
+1.4.3
+-------
+Full definition and implementation of the Operative Object. Various changes to game objects.
+Player now has money and asscessor/mutators for private member money. Treasure object 
+was re-coded in a few places, no major changes. Treasure's copy constructor disabled! Caused
+problems with code, something about vectors and explicit copy constructors,
+if you can fix it...BE MY GUEST!!1 A few other minor code changes to accomodate for the 
+Operative and the planned possibility of rooms being able to store multiple items.
+This version has loose ends. Released by Barry
+-------
+
+1.4.4 (BETA)
+-------
+Almost functioning agent-player operations, needs to be able to mutate player inventory.
+some code changes. Released by Barry
+-------
+
+1.4.4
+-------
+Player-agent transaction are 90% accurate.
+Ability for rooms to store multiple items is 80% functional.
+Released by Barry
+-------
+
+1.4.5
+-------
+Rooms' multiple item storage is working. Players may drop items in a room.
+The game will end according to the specified number of rooms.
+The vector of strings that store the treasure names is on its way to extinction.
+Player may now use an 'i'/'I' command to view their inventory.
+Character case conversions work properly now for all command prompts.
+A bunch of necessary object member functions were added to treasure, operative,
+and player. Operatives appear in most rooms, but not all (this is intended).
+Most operative and room item storing bugs have been resolved since previous verisons.
+Player-Agent transactions are functional. Released by Barry.
+-------
+
+1.4.6 (RC)
+-------
+Very similiar to 1.4.5; however, user friendliness was an objective in the verison.
+The Player may check their health, enemy's health, and inventory. Also the player's money
+is displayed with the inventory. When the game ends it should nicely output the player's
+stats and money earned during the game. Released by Barry.
+-------
+
+1.4.7
+-------
+Fixed some major bugs from 1.4.6
+rooms outputs its inventory, player can press c for cheat to gain extra cash.
+help command (h) will list all commands.
+-------
+
+1.4.8
+-------
+Fixed ability for the game to accurate load from a mod.txt file so that the user may load a modified
+game. Game music is finished. Fixed a bug that arised from a condition calling an obsolete string
+vector. -Barry
+-------
+
+1.5 (beta)
+-------
+Nothing worth mentioning, only used for a simple test phase.
+-------
+
+1.5
+-------
+At last multiple item storage in rooms (in terms of dropped items) functions, a little
+confusion with the [],* and ->,. operators. -Barry
+-------

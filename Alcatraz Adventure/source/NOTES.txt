@@ -1,0 +1,30 @@
+Barry, May 10th, 2009
+
+Removed the following code, felt it wasn't needed.
+It should work ok, but I think it makes the gameplay awkward and could may cause problems.
+Block reference currently disabled variable "dropItem" of type char
+
+line = 683
+[code]
+		if(treasureList.size()>=5)
+		{
+			SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 78);
+			cout << " You have too many items\nWould you like to drop an item? (Y/N)" << endl << ">";
+			cin>>dropItem;
+			SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 15);
+
+			tolower(dropItem);
+			system("cls");
+
+			/* Players may not choose which item they wish to drop */
+			if(dropItem=='y')
+			{
+				treasureList.pop_back();
+			}
+			else
+			{
+				cout<<" You decide not to drop an item "<<endl;
+			}
+		}
+[/code]
+line = 702

@@ -1,0 +1,269 @@
+22
+0
+***open water***
+
+You have jumped from a helicopter and landed in rough seas. 
+-1 -1 -1 1
+a pair of underwater goggles
+These let you see underwater in the dark.
+30
+aa Nurse shark
+very timid and unthreatening.
+25
+To the West of you sit the docks. To your North, South, and East, are rough seas.
+1
+***docks***
+
+Prison ships used to load and unload prisoners here.
+
+3 -1 2 -1
+computer chip 1
+You have removed a missile guidance chip, preventing that missile from harming the citizens of San Francisco.
+
+150
+
+a Guard with a knife
+The guard does not like the song "RocketMan". Little does he know he IS the rocketman.
+25
+To your North is the sewage exit. To your East is the dock house.
+2
+***dock house***
+aBoating equipment and supplies are left here. 
+3 -1 1 0
+a pair of binoculars
+These help you see far.
+30
+aa Patrolling guard
+The guard is an accomplished ex-Marine.
+40
+To your North is the sewage exit.
+3
+***sewage exit***
+
+A stealthy entrance to the main building. 
+6 2 4 -1
+pocketwatch
+This watch looks valuable.
+60
+aa Mutant Rat
+This thing is ugly.
+18
+To your North is the shower room.To your East is the sally port.
+4
+***sally port***
+
+A smaller port, further north.
+5 -1 -1 3
+some ammunition
+M4 ammunition.
+75
+aRabid seagull
+On the verge of death. Rabies is winning the fight.
+30
+To your North is the access road. To your West is the sewage exit.
+5
+***access road***
+
+Long paved road, sparse shubbery on both sides. 
+7 4 8 -1
+Ben Viall's wallet
+It would be so easy to blackmail him with this.
+600
+aBen Viall
+Busy writing computer programs, not a threat.
+5
+To your North is the mess hall. To your East is the officer's club.
+6
+***shower room***
+
+This is the planned entry point to the main building.
+-1 3 -1 -1
+a radio
+This helps you hear communications between enemy soldiers.
+80
+aHummel's troops
+You are ambushed by one of the best assemblies of decorated ex-Marines from an elevated position.
+100
+The exit is South of you.
+7
+***mess hall***
+
+This is the room where prisoners used to eat. 
+10 5 13 9
+computer chip 2
+You have removed a missile guidance chip, preventing that missile from harming the citizens of San Francisco.
+150
+aa Fat guard
+This guard is busy texting.
+20
+North is cell block B. West is cell block A. East is the Kitchen.
+8
+***officers club***
+
+This is Hummel's radar room.
+-1 -1 -1 5
+ECE 264 Final answers
+This could serve useful at the end of the semester.
+140
+aProfessor Geiger
+Professor Geiger is busy programming.
+30
+West is the access road.
+9
+***cell block A***
+
+This block contains hostages in the cells. 
+11 -1 7 -1
+a pair of Gloves
+These gloves belonged to O.J. Simpson.
+30
+aan angry hostage
+This confused hostage pulls you towards his cell, thinking you are the enemy.
+10
+North is an open cell.East is the mess hall.
+10
+***cell block B***
+
+This block contains hostages in the cells.
+12 7 -1 -1
+an autographed baseball
+This is signed by Cal Ripken, Jr.
+40
+aangry hostage
+This hostage wants your baseball.
+10
+North is the rec yard. South is the mess hall.
+11
+***open cell***
+
+This cell contains a hostage looking to trade. 
+-1 9 -1 -1
+a trader's hat
+This hat a cultural symbol of good luck.
+5
+aa schizophrenic trader
+The hostage looking to trade goes crazy!
+30
+South is cell block A.
+12
+***rec yard***
+
+This is where the prisoners used to hang out. 
+-1 10 15 5
+computer chip 3
+You have removed a missile guidance chip, preventing that missile from harming the citizens of San Francisco.
+150
+astrong guard
+He appears out of nowhere!"I'll take pleasure in guttin' you, boy."
+50
+South is cell block B. East is the mine. West is the sewage exit.
+13
+***kitchen***
+
+You must break the shelf blocking your way in this room. 
+14 -1 16 7
+some ammunition
+9MM ammunition.
+40
+aa shelf
+You must move this shelf quietly, it has very sharp edges.
+5
+North is the trash chute. East is the morgue. West is the mess hall.
+14
+***trash chute***
+
+This chute is disgusting! 
+15 13 16 -1
+a rope
+This doesn't help too much.
+2
+aa Wasteful scum
+Try to avoid the remnants of 60-year old food!
+15
+South is the kitchen. East is the morgue. North is the mine.
+15
+***mine***
+
+This place is old, it used to be a Civil War fort. 
+17 14 -1 12
+your FBI identification
+You show this to Mason showing you are a chemical weapons expert, convincing him that he has no choice but to help you in this mission.
+65
+athree guards
+The guards caught up with you, and one of them has Mason in a chokehold!
+75
+North is the drainage pipe. South is the trash chute. West is the rec yard.
+16
+***morgue***
+
+There is a guard patrolling the area. Mason shoots out ceiling unit, falling on him. 
+14 -1 -1 13
+computer chip 4
+You have removed a missile guidance chip, preventing that missile from harming the citizens of San Francisco.
+150
+athe guards
+Guards close in on the morgue, you need to get out of there!
+20
+North is the trash chute. West is the kitchen.
+17
+***drainage pipe***
+
+You are getting close to Hummel's command center. 
+19 15 -1 -1
+a place to rest
+You need a deep breath after almost being blown away!
+15
+aa large pipe bomb
+They're trying to "flush" you out of the pipes! Go under the water!
+10
+North is Hummel's command center. South is the mine.
+18
+***lighthouse***
+
+Here lies the last rocket! Diffuse it! 
+20 -1 19 -1
+computer chip 5 and delicate VX gas capsule
+You have removed a missile guidance chip, preventing that missile from harming the citizens of San Francisco.
+210
+aa young Irish guard
+Playing as Mason, you encounter the young Irish guard, "British Intelligence?(punch) Did I tell ya my old man was Irish?"
+70
+East is Hummel's command center. North is the medical ward.
+19
+***Hummel's command center***
+
+You corner Hummel. He admits he was bluffing. His men are not ready to surrender.
+-1 17 -1 18
+an injured General Hummel
+General Hummel tells you where the last rocket is: the lighthouse.
+50
+aHummels men
+You need to get out of there alive!
+85
+South is the drainage pipe. West is the lighthouse.
+20
+***medical ward***
+
+You need to get through here and light those green flares! 
+-1 -1 21 18
+some atropine
+Inject into your heart if you want to live!
+300
+aCaptain Frye
+Hummel's no. 3 in command attacks! He's got you down! Your only defense is the VX capsule!
+125
+West is the lighthouse. East is the hill.
+21
+***hill***
+
+You see jets on the horizon, you realize they're getting ready to bomb the island because they still think Hummel can launch! 
+21 21 21 21
+Mission Accomplished
+You saved the city of San Francisco!
+900
+agreen flares
+Light and wave those green flares to call off the jets in time!!Game over!
+1
+Game over
+22
+22
