@@ -1,0 +1,18 @@
+#-------------------------------------------------
+#
+# Project created by QtCreator 2010-04-14T19:44:29
+#
+#-------------------------------------------------
+
+QT       += network multimedia
+
+TARGET = UDP_CLIENT_REAL
+TEMPLATE = app
+
+
+SOURCES += main.cpp\
+        mainwindow.cpp
+
+HEADERS  += mainwindow.h
+
+FORMS    += mainwindow.ui
